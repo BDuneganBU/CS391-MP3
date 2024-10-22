@@ -22,7 +22,7 @@ export default function Header() {
     return (
         <StyledHeader>
             <Title>Brandon's React Resume</Title>
-            <Para>This page serves as the home page!</Para>
+            <Para>Feel free to explore my resume!</Para>
         </StyledHeader>
     )
 }
